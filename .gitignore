@@ -12,12 +12,8 @@ dist
 dist-ssr
 *.local
 .npm-cache
-.env
-.env.production
-.env.local
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -61,3 +57,4 @@ bentopdf-pymupdf-wasm/
 /security-headers-docs.conf
 /dist-*.zip
 /docs/.vitepress/cache/
+config.bat
